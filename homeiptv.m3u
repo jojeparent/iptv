@@ -49,10 +49,6 @@ https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u
 https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="tv.redbull.tv" tvg-logo="https://jojeparent.github.io/iptv/Logos/redbull.png" group-title="Home",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="espn" tvg-logo="https://jojeparent.github.io/iptv/Logos/espn.png" group-title="Home",ESPN
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:0 tvg-id="espn2" tvg-logo="https://jojeparent.github.io/iptv/Logos/espn2.png" group-title="Home",ESPN2
-https://gma2.blab.email/espn2.m3u8
 #EXTINF:0 tvg-id="Dust" tvg-logo="https://jojeparent.github.io/iptv/Logos/dust.png" group-title="Home",Dust
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-id="AMC(English).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s52247_dark_360w_270h.png" group-title="Home",AMC PRESENT
